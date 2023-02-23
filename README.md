@@ -5,6 +5,7 @@
 <!-- Intro -->
 ## Introduction :raised_hands:
 Hi, I am Full-Stack Developer, I'm will trying to become a nice developer👍
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sodra6&layout=compact)](https://github.com/sodra6/github-readme-stats)
 <br/><br/>
  
 <!-- My Skill Area -->
@@ -25,10 +26,5 @@ Hi, I am Full-Stack Developer, I'm will trying to become a nice developer👍
 <!-- React -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
-<br/><br/>
-<!-- most language-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sodra6&langs_count=8)](https://github.com/sodra6/github-readme-stats)
-<!-- github status -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sodra6&show_icons=true&theme=radical)
-  
+ 
 </div>
