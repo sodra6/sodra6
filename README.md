@@ -4,7 +4,7 @@
 <!-- React -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 <!-- Java -->
-<img src="https://img.shields.io/badge/Java-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
 <!-- Spring -->
 <img src="https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=Spring&logoColor=61DAFB"/>
 <!-- Spring boot -->
