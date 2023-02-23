@@ -26,12 +26,15 @@ Hi, I am Full-Stack Developer, I'm will trying to become a nice developer👍
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 <br/><br/>
-
+<div>
 <!-- most language-->
+<a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sodra6&langs_count=8)](https://github.com/sodra6/github-readme-stats)
-
+ </a>
 <!-- github status -->
+<a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sodra6&show_icons=true&theme=radical)
-
+</a>
+<div>
   
 </div>
