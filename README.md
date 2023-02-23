@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90"/>
 <!--
 **sodra6/sodra6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
