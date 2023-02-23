@@ -1,13 +1,13 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20YongGyu&fontSize=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There,%20I'm%20YongGyu&fontSize=60"/>
 <br/><br/><br/><br/>
 
 <!-- Intro -->
 ## Introduction :raised_hands:
 
 ### Hi, I am Full-Stack Developer, I'm will trying to become a nice developer👍
-
 <br/>    
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sodra6&layout=compact)](https://github.com/sodra6/github-readme-stats)
 <br/><br/>
  
