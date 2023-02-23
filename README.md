@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sodra6&langs_count=8)](https://github.com/sodra6/github-readme-stats)
 
 <!-- github status -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sodra6&show_icons=true&theme=radical)
 <!--
 **sodra6/sodra6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
