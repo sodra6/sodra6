@@ -7,7 +7,7 @@
 <p>
 ###Hi, I am Full-Stack Developer, I'm will trying to become a nice developer👍
 </p>
-<br/>
+<br/>    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sodra6&layout=compact)](https://github.com/sodra6/github-readme-stats)
 <br/><br/>
  
