@@ -1,19 +1,23 @@
-<div aling="center">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20YongGyu&fontSize=60"/>
 <br/><br/><br/><br/>
  
 <!-- My Skill Area -->
 <!-- Javascript -->
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <!-- React -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=white"/>
 <!-- Java -->
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-white?style=flat&logo=Java&logoColor=white"/>
 <!-- Spring -->
-<img src="https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=Spring&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Spring-61DAFB?style=for-the-badge&logo=Spring&logoColor=white"/>
 <!-- Spring boot -->
-<img src="https://img.shields.io/badge/Spring Boot-white?style=for-the-badge&logo=Spring Boot&logoColor=6DB33F"/>
-
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+<!-- PostgreSQL -->
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+<!-- Oracle -->
+<img src="https://img.shields.io/badge/PostgreSQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+<br/>
 
 <!-- most language-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sodra6&langs_count=8)](https://github.com/sodra6/github-readme-stats)
