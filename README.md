@@ -2,6 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Hi%20There,%20I'm%20YongGyu&fontSize=30"/>
 <br/><br/><br/><br/>
 
+<div class="pull-left">
+  
 <!-- Intro -->
 ## Introduction :raised_hands:
 
@@ -9,7 +11,9 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sodra6&layout=compact)](https://github.com/sodra6/github-readme-stats)
 
-<br/>
+</div>
+  
+<div class="pull-right">
 
 <!-- My Skill Area -->
 ## Skill : 💻
@@ -27,7 +31,12 @@
 <!-- Javascript -->
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 <!-- React -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>    
+
+</div>    
+<br/>
+
+
 
  
 </div>
