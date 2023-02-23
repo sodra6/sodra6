@@ -1,5 +1,5 @@
 <div aling="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%there,%I'm%YongGyu&fontSize=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20YongGyu&fontSize=60"/>
 <br/><br/><br/><br/>
  
 <!-- My Skill Area -->
