@@ -24,10 +24,10 @@
 <!-- Spring boot -->
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
 <!-- PostgreSQL -->
-<img src="https://img.shields.io/badge/Oracle-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
-<!-- Oracle -->
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/PostgreSQL-F80000?style=flat&logo=Oracle&logoColor=white"/> 
+<!-- Oracle -->
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> 
 <!-- Javascript -->
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 <!-- React -->
