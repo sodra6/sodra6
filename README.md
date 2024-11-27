@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=I%20am%20Full-Stack%20Developer,%20YongGyu&fontSize=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=100&section=header&text=I%20am%20Full-Stack%20Developer,%20YongGyu&fontSize=30"/>
 <br/>
 
 <div class="pull-left">
