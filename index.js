@@ -42,9 +42,6 @@ let text = `
 
 </div>    
 <br/>
-
-
-
  
 </div>
 
