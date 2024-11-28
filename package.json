@@ -1,0 +1,17 @@
+{
+  "name": "sodra6",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r <img src=\"https://capsule-render.vercel.app/api?type=waving&color=blue&height=100&section=header&text=I%20am%20Full-Stack%20Developer,%20YongGyu&fontSize=30\"/>\r <br/>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
