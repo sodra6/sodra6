@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=100&section=header&text=I%20am%20Full-Stack%20Developer,%20YongGyu&fontSize=30"/>
 <br/>
@@ -35,5 +36,12 @@
 
 </div>    
 <br/>
+
+
+
  
 </div>
+
+## 📕 Latest Blog Posts
+
+<ul><li><a href='https://sodra6.tistory.com/26' target='_blank'>[Intellij] 프로젝트 버전 안맞는 현상 (Failed to calculate the value of task ':compileJava' property 'javaCompiler')</a></li><li><a href='https://sodra6.tistory.com/25' target='_blank'>React - Redux</a></li><li><a href='https://sodra6.tistory.com/22' target='_blank'>MDD 컴포넌트 상호작용 도출</a></li><li><a href='https://sodra6.tistory.com/23' target='_blank'>MDD 오퍼레이션 설계, DTO</a></li><li><a href='https://sodra6.tistory.com/21' target='_blank'>MDD 컴포넌트 종류</a></li><li><a href='https://sodra6.tistory.com/20' target='_blank'>MDD Model 시나리오 예시</a></li><li><a href='https://sodra6.tistory.com/19' target='_blank'>MDD(Model Driven Development)란?</a></li><li><a href='https://sodra6.tistory.com/18' target='_blank'>AWS에 Tomcat올리기</a></li><li><a href='https://sodra6.tistory.com/17' target='_blank'>EC2에 postgresql 설치</a></li><li><a href='https://sodra6.tistory.com/16' target='_blank'>AWS - EC2구축 및 EC2접속</a></li></ul>
