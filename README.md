@@ -29,8 +29,6 @@
 <br/>
 <!-- Oracle -->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> 
-<!-- MariaDB -->
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> 
 <!-- Javascript -->
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 <!-- React -->
